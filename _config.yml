@@ -15,4 +15,3 @@ exclude:
   - backstop.json
   - README.md
   - .gitignore
-  - feed.xml
