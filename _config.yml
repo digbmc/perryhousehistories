@@ -3,3 +3,15 @@ baseurl: '/perryhousehistories'
 title: 'Perry House Oral Histories'
 description: ''
 theme: minima
+
+
+exclude:
+  - optional
+  - vendor
+  - ed..gemspec
+  - Gemfile
+  - Gemfile.lock
+  - backstop_data
+  - backstop.json
+  - README.md
+  - .gitignore
