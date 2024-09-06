@@ -1,6 +1,6 @@
 ---
 id: 12
-title: 'Home'
+title: 'The Perry House Oral Histories Project'
 date: '2021-01-29T16:39:49+00:00'
 author: 'Allison Mills'
 layout: home
