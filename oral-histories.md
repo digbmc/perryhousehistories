@@ -8,13 +8,13 @@ guid: 'https://digitalprojects.brynmawr.edu/perryhousehistories/?page_id=43'
 order: 1
 ---
 
-# ORAL HISTORIES
+## ORAL HISTORIES
 
 Oral history is a method of gathering and preserving the voices of people and communities to document past events. Oral history interviews are conducted by trained researchers questioning interviewees and recording their conversation in audio or video formats. Recordings are then transcribed, summarizes, and indexed so they can be preserved in an archive. These interviews provide insight into the lived experiences of individuals and are especially valuable for communities that have been historically underrepresented and marginalized in the telling of history—communities that might otherwise not appear in the documentary record.
 
 **Oral histories are still being collected. Those that have been collected to date are currently undergoing a review process by those who have been interviewed.**
 
-## Our Process
+### Our Process
 
 All Perry House Oral Histories Project researchers receive training in oral history before beginning their interviews. Currently this includes training provided by our professional staff, as well as the [Science History Institute’s Oral History Training](https://www.sciencehistory.org/ohtraining) course.
 
@@ -24,7 +24,7 @@ The researchers meet with interviewees at a jointly agreed upon time to conduct 
 
 All oral histories collected by the Perry House Histories Project are preserved in the Bryn Mawr College Archives.
 
-## Forms
+### Forms
 
 Interested in seeing what our Consent and Research Forms look like? Click below to download and view.
 

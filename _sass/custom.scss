@@ -1,0 +1,88 @@
+h1, h2 {
+    text-transform: uppercase;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h2, h3, h4, h5, h6 {
+    font-weight: light;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid $grey-color-light;
+}
+
+.site-header {
+    border: none;
+}
+
+.site-title {
+    padding: 2rem 0;
+    /* font-size: xx-large; */
+    text-transform: uppercase;
+    font-weight: bold;
+    color: $text-color;
+    transition: color .5s;
+    @include relative-font-size(2.5);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(2.125);
+    }
+
+    &,
+    &:visited {
+        color: $text-color;
+    }
+    &:hover {
+        color: $grey-color;
+        text-decoration: none;
+    }
+}
+
+.site-nav {
+    float: left;
+}
+
+/*
+h1.page-heading, h1.post-title {
+    font-size: xx-large;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+*/
+
+.post-title {
+    @include relative-font-size(2.25);
+    letter-spacing: -1px;
+    line-height: 1;
+  
+    @include media-query($on-laptop) {
+      @include relative-font-size(2);
+    }
+}
+
+.footer-heading {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.team-page{
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+
+        li {
+            min-height: 272px;
+        }
+    }
+
+    img {
+        float: left;
+        max-height: 200px;
+        padding: 0 1rem 1rem 0;
+    }
+}
